@@ -8,3 +8,18 @@ Janji: Saya Alief Muhammad Abdillah 2003623 mengerjakan Tugas Praktikum 3 dalam 
   2. Class Pc menjadi Base class dari  class Processor, Disk, RAM, sehingga class Pc memiliki class Processor, Disk, RAM
  
  - Screenshot Hasil Output:
+ 1. Java
+    
+    ![alt text](https://github.com/aliefabdillah/LATIHAN3DPBO2022/blob/main/screenshot3/java.png)
+    
+ 2. C++
+ 
+    ![alt text](https://github.com/aliefabdillah/LATIHAN3DPBO2022/blob/main/screenshot3/cpp.png)
+    
+ 3. Python
+    
+    ![alt text](https://github.com/aliefabdillah/LATIHAN3DPBO2022/blob/main/screenshot3/python.png)
+ 
+ 4. PHP 
+    
+    ![alt text](https://github.com/aliefabdillah/LATIHAN3DPBO2022/blob/main/screenshot3/php.png)
